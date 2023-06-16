@@ -1,0 +1,71 @@
+﻿{
+  "AppEnds": [
+    {
+      "AppEndId": "0f771573-c637-4585-bf96-c10de1130f6c",
+      "DisplayName": "Cti.Toolkit",
+      "SystemName": "Pro.Utils.Cti.Toolkit",
+      "AppGroupName": "ProServer"
+    },
+    {
+      "AppEndId": "5c744277-aeae-4a1a-9001-d0c340c718e5",
+      "DisplayName": "ServiceSync",
+      "SystemName": "iCC.ServiceSync",
+      "AppGroupName": "ProServer"
+    },
+    {
+      "AppEndId": "25b57cb3-3531-47c3-b139-2e6aa18bcc78",
+      "DisplayName": "ServiceLink",
+      "SystemName": "iCC.ServiceLink",
+      "AppGroupName": "ProServer"
+    },
+    {
+      "AppEndId": "8b58b6c6-fd79-4e1c-91ec-bf471f4f6a9d",
+      "DisplayName": "WebSite",
+      "SystemName": "iCC.WebSite",
+      "AppGroupName": "ProServer"
+    },
+    {
+      "AppEndId": "d870cba5-863c-46e3-bf58-1f278bfb9400",
+      "DisplayName": "ReactClient",
+      "SystemName": "iCC.ReactClient",
+      "AppGroupName": "ProServer"
+    },
+    {
+      "AppEndId": "acc917a6-b811-4bac-bd22-367b9376d245",
+      "DisplayName": "DesktopClient",
+      "SystemName": "iCC.DesktopClient",
+      "AppGroupName": "ProServer"
+    },
+    {
+      "AppEndId": "acc0cba5-863c-46e3-bf58-1f278bfb9400",
+      "DisplayName": "FS Web Applications",
+      "SystemName": "iCC.ReactClient.WEB",
+      "AppGroupName": "FrontStage"
+    },
+    {
+      "AppEndId": "cdb917a6-b811-4bac-bd22-367b9376d245",
+      "DisplayName": "FS Desktop Applications",
+      "SystemName": "iCC.DesktopClient.APP",
+      "AppGroupName": "FrontStage"
+    },
+    {
+      "AppEndId": "84954277-aeae-4a1a-9001-d0c340c718e5",
+      "DisplayName": "FS IVR PIN",
+      "SystemName": "iCC.ServiceSync.IVR",
+      "AppGroupName": "FrontStage"
+    },
+    {
+      "AppEndId": "81654277-aeae-4a1a-9001-d0c340c718e5",
+      "DisplayName": "FS PBX PIN",
+      "SystemName": "iCC.ServiceSync.PBX",
+      "AppGroupName": "FrontStage"
+    },
+    {
+      "AppEndId": "e8d9cba5-863c-46e3-bf58-1f278bfb9400",
+      "DisplayName": "FS REST API Key",
+      "SystemName": "iCC.ServiceRest.API",
+      "AppGroupName": "FrontStage"
+    }
+
+  ]
+}
